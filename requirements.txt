@@ -1,0 +1,24 @@
+# Core Deep Learning & Scientific ML
+torch>=2.0.0
+scipy>=1.11.0
+numpy>=1.24.0
+
+# Data Manipulation & Formats
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Machine Learning & Gradient Boosting
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+catboost>=1.2.0
+lightgbm>=4.0.0
+
+# Model Explainability & Interpretability (XAI)
+shap>=0.44.0
+
+# Visualization & Reporting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Testing & Quality Assurance
+pytest>=7.4.0
